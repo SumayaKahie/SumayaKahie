@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @SumayaKahie
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Tableau, R
-- 💞️ I’m looking to collaborate on Github
+Resolute data analyst with a Upper 2:1 degree in Economics along with 1+ year experience in data analytics creating dashboards using Excel, Power Bi with company data.
 - 📫 How to reach me Sumayakahie2@gmail.com
 
 <!---
